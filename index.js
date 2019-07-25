@@ -1,8 +1,8 @@
-var recipes = new object(food: 'pasta'); 
+var recipes = {food: 'pasta'} 
 
 
 
-var newObj = object.assign({}, recipes)
+var desert = recipe.assign({"Ice Cream"}, recipes)
 
 
 
