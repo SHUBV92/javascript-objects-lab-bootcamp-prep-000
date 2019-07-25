@@ -1,9 +1,13 @@
-var recipes = {food: 'pasta'} 
+var recipes = {
+  food: 'pasta'
+  
+} 
+
+recipe.desert = "Ice Cream"
+
+console.log(recipes);
 
 
 
-var desert = recipe.assign({"Ice Cream"}, recipes)
-
-
-
+/*
 delete newObj.
