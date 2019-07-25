@@ -9,5 +9,3 @@ console.log(recipes);
 
 delete recipes.desert;
 
-/*
-delete newObj.
