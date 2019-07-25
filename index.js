@@ -3,7 +3,7 @@ var recipes = {
   
 } 
 
-recipe.desert = "Ice Cream"
+recipes.desert = "Ice Cream";
 
 console.log(recipes);
 
